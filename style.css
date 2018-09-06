@@ -1,0 +1,27 @@
+body{
+    font-family: 'Neucha', cursive;
+    font-size: 1.3em;
+    font-weight: bold;
+    color: black;
+    background-color: #bfd8bd;
+}
+.container{
+    margin-top: 1em;
+}
+h1{
+    font-size: 4em;
+    color: #d17b88;
+}
+form{
+    margin-top: 3em;
+}
+label{
+    margin-top: 0.5em;
+}
+.form-control{
+    border-color: black;
+}
+#submit{
+    font-weight: bold;
+    background-color: #d17b88;
+}
